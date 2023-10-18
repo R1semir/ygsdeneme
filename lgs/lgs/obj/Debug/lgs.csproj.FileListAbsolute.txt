@@ -1,0 +1,10 @@
+C:\Users\legen\source\repos\lgs\lgs\obj\Debug\lgs.csproj.AssemblyReference.cache
+C:\Users\legen\source\repos\lgs\lgs\obj\Debug\lgs.Form1.resources
+C:\Users\legen\source\repos\lgs\lgs\obj\Debug\lgs.Properties.Resources.resources
+C:\Users\legen\source\repos\lgs\lgs\obj\Debug\lgs.csproj.GenerateResource.cache
+C:\Users\legen\source\repos\lgs\lgs\obj\Debug\lgs.csproj.CoreCompileInputs.cache
+C:\Users\legen\source\repos\lgs\lgs\bin\Debug\lgs.exe.config
+C:\Users\legen\source\repos\lgs\lgs\bin\Debug\lgs.exe
+C:\Users\legen\source\repos\lgs\lgs\bin\Debug\lgs.pdb
+C:\Users\legen\source\repos\lgs\lgs\obj\Debug\lgs.exe
+C:\Users\legen\source\repos\lgs\lgs\obj\Debug\lgs.pdb
